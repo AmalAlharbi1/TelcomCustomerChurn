@@ -1,6 +1,6 @@
 # Telco Customer Churn Prediction
 ## Overview
-This repository contains a Jupyter Notebook (predictive-analytics-project (2).ipynb) that demonstrates a predictive analytics project focused on predicting customer churn in the telecommunications industry. The notebook provides a step-by-step guide to the analysis, modeling, and evaluation of customer churn using machine learning techniques.
+Developed a predictive model that can identify customers at risk of churning from telecommunications services with 86% accuracy. An oversampling technique has been used to address the imbalanced issue in the dataset effectively while also investigating the potential attributes that could be responsible for customer churning behavior..
 
 ## Project Description
 ### Objective
@@ -53,7 +53,4 @@ Ensure you have the following Python libraries installed:
 bash
 Copy code
 pip install numpy pandas matplotlib seaborn scikit-learn
-### Acknowledgments
-This project was created by Amal Alharbi. Special thanks to the open-source community for their contributions and support.
 
-Feel free to explore, modify, and enhance the notebook to suit your specific needs. If you have any questions or suggestions, please create an issue or reach out to the project owner.
